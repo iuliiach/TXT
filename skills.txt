@@ -1,0 +1,12 @@
+skill_1: QA theory,
+skill_2: Basics of Linux,
+skill_3: GitHub,
+skill_4: Client-Server Model,
+skill_5: API testing, Postman,
+skill_6: Basics of SQL, Postgres, Redis,
+skill_7: DevTools,
+skill_8: Mobile testing,
+skill_9: Python,
+skill_10: Job interviews,
+skill_11: Soft skills,
+skill_12: loads of other useful things
